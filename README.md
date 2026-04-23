@@ -58,15 +58,10 @@ Open to collaborations on web products and campus-tech projects.
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=default&hide_border=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=default&hide_border=true" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=default&hide_border=true" height="120" />
+  <img src="https://streak-stats.demolab.com?user=soumyajit-18-shipi-it&theme=default&hide_border=true" height="120" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyajit-18-shipi-it&theme=default&hide_border=true" />
-</p>
-
 ---
 
 ## Currently learning
@@ -74,9 +69,10 @@ Open to collaborations on web products and campus-tech projects.
 `DBMS & SQL internals` &nbsp; `Backend integration (Node / Express)` &nbsp; `ML fundamentals` &nbsp; `DSA — daily practice`
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=soumyajit-18-shipi-it&icon=4&color=0" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Web+%2B+AI+engineering;Next.js+%7C+ML+%7C+Data;Interactive+systems+with+intelligence&center=true&width=520&height=40" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajit-18-shipi-it&hide_border=true" width="700" />
+</p>
 <p align="center"><sub>BITS Pilani &nbsp;·&nbsp; Pilani, Rajasthan</sub></p>
