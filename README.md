@@ -58,13 +58,13 @@ Open to collaborations on web products and campus-tech projects.
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=default&hide_border=true" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soumyajit-18-shipi-it&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=soumyajit-18-shipi-it&theme=default&hide_border=true" />
 </p>
 
 ---
