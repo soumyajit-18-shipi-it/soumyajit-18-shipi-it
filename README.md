@@ -73,11 +73,10 @@ Open to collaborations on AI products, research projects, and campus-tech initia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a84c&icon_color=c9a84c&text_color=f0ede4&ring_color=c9a84c" height="125" />
+<img src="https://github-readme-stats.vercel.app/api?username=soumyajit-18-shipi-it&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a84c&icon_color=c9a84c&text_color=f0ede4&ring_color=c9a84c" height="120" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a84c&text_color=f0ede4" height="125" />
-
-<img src="https://streak-stats.demolab.com?user=soumyajit-18-shipi-it&theme=dark&hide_border=true&background=0a0a0f&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f0ede4&dates=8a8a9a" height="125" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit-18-shipi-it&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a84c&text_color=f0ede4" height="120" />
+<img src="https://streak-stats.demolab.com?user=soumyajit-18-shipi-it&theme=dark&hide_border=true&background=0a0a0f&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f0ede4&dates=8a8a9a" height="120" />
 
 </div>
 
