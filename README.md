@@ -13,7 +13,6 @@
 <div align="center">
 
 ```
-          ><(((º>   ·  ><((º>   ·   ><(º>   ·  ><(((((º>
 ```
 
 </div>
@@ -40,7 +39,7 @@ Currently deep-diving into machine learning, neural networks, and backend system
 Open to collaborations on **AI products**, research projects, and campus-tech initiatives.
 
 ```
-   ><(((º>  current depth: ML · Neural Nets · Backend Systems · DSA
+  current depth: ML · Neural Nets · Backend Systems · DSA
 ```
 
 ---
@@ -143,7 +142,6 @@ Open to collaborations on **AI products**, research projects, and campus-tech in
 <div align="center">
 
 ```
-          ><(((º>   ·  ><((º>   ·   ><(º>   ·  ><(((((º>
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontColor=74C69D&animation=fadeIn" width="100%" />
