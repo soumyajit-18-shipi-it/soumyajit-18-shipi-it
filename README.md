@@ -222,33 +222,6 @@ Nationally competitive, merit-based scholarship awarded by the Government of Ind
 
 ---
 
-<!-- Learning Roadmap -->
-
-```
-// LEARNING ROADMAP
-```
-
-```text
-DSA & Problem Solving          [====================]  active
-Backend Systems & APIs         [====================]  active
-Machine Learning               [================    ]  in progress
-Deep Learning & Neural Nets    [============        ]  next
-Transformers & Attention       [========            ]  queued
-LLMs & AI Agents               [====                ]  destination
-```
-
----
-
-<!-- Skill Snapshot -->
-
-```
-// SKILL DEPTH  (current snapshot)
-```
-
-
-
----
-
 <!-- Coursework -->
 
 ```
