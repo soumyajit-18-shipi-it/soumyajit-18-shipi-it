@@ -12,13 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%230D0D0F?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:soumyajitrout24@gmail.com)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=soumyajit-18-shipi-it&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 <!-- Identity Block -->
 <table width="100%" border="0">
 <tr>
